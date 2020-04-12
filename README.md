@@ -1,3 +1,10 @@
+Create a simple application to create, store in the database and delete notes, used hooks and animation.
+
+My solution:
+- [DEMO-LINK](https://mikhail-88.github.io/react-notes-app/)
+
+_________________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
