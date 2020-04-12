@@ -1,4 +1,4 @@
-Create a simple application to create, store in the database and delete notes, used hooks and animation.
+This is a simple application to create, store in the database and delete notes, used hooks and animation.
 
 My solution:
 - [DEMO-LINK](https://mikhail-88.github.io/react-notes-app/)
