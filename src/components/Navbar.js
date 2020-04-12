@@ -8,10 +8,10 @@ const Navbar = () => (
     </div>
     <ul className="navbar-nav">
       <li className="nav-item">
-        <NavLink className="nav-link" to='/' exact>Home</NavLink>
+        <NavLink className="nav-link" to='/react-notes-app/' exact>Home</NavLink>
       </li>
       <li className="nav-item">
-        <NavLink className="nav-link" to='/about/'>About</NavLink>
+        <NavLink className="nav-link" to='/react-notes-app/about/'>About</NavLink>
       </li>
     </ul>
   </nav>

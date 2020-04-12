@@ -16,8 +16,8 @@ function App() {
           <div className="container">
             <Alert />
             <Switch>
-              <Route path='/' component={Home} exact />
-              <Route path='/about' component={About} />
+              <Route path='/react-notes-app/' component={Home} exact />
+              <Route path='/react-notes-app/about' component={About} />
             </Switch>
           </div>
         </Router>
